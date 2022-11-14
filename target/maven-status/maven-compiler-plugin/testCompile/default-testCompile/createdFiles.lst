@@ -1,0 +1,7 @@
+StepDefinitions\Ordersteps.class
+MyHooks\AmazonHooks.class
+StepDefinitions\Searchsteps.class
+TestRunner\OrderTest.class
+TestRunner\UberTest.class
+StepDefinitions\UberBookingSteps.class
+TestRunner\AmazonTest.class
